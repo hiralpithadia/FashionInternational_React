@@ -1,0 +1,68 @@
+{
+    "orderType": [
+        "pre-order",
+        "In-stock"
+    ],
+    "topBarIcons": [
+        {
+            "type": "user",
+            "image": "./assets/user.png"
+        },
+        {
+            "type": "search",
+            "image": "./assets/search.png"
+        },
+        {
+            "type": "wishlist",
+            "image": "./assets/vector.png"
+        },
+        {
+            "type": "cart",
+            "image": "./assets/shopping-bag.png"
+        }
+    ],
+    "categories": [
+        "men",
+        "women",
+        "detox-denim",
+        "noss"
+    ],
+    "relatedProducts": [
+        {
+            "image": "./assets/relatedProductsImages/relatedProduct.png",
+            "title": "Pullover made out of organic cotton"
+        },
+        {
+            "image": "./assets/relatedProductsImages/relatedProduct.png",
+            "title": "Pullover made out of organic cotton"
+        },
+        {
+            "image": "./assets/relatedProductsImages/relatedProduct.png",
+            "title": "Pullover made out of organic cotton"
+        },
+        {
+            "image": "./assets/relatedProductsImages/relatedProduct.png",
+            "title": "Pullover made out of organic cotton"
+        }
+    ],
+    "footerLists": {
+        "list1": [
+            "Shipping & Returns",
+            "Size guide"
+        ],
+        "list2": [
+            "Settings",
+            "Contact"
+        ],
+        "list3": [
+            "Downloads",
+            "Lookbook",
+            "Favorites"
+        ]
+    },
+    "languages": [
+        "english",
+        "french",
+        "spanish"
+    ]
+}

@@ -1,0 +1,152 @@
+{
+    "name": "Pullover of Organic Cotton",
+    "description": "This sweater of organic cotton is ideal for late summer nights at the beach. You can still wear it during fall or winter so its great for all seasons. This soft fabric makes it comfortable to wear and stays nice and soft for a long time. ",
+    "modalImages": [
+        "./../assets/modal/xlarge_1.png",
+        "./../assets/modal/xlarge_2.png",
+        "./../assets/modal/xlarge_3.png",
+        "./../assets/modal/xlarge_4.png",
+        "./../assets/modal/xlarge_5.png",
+        "./../assets/modal/xlarge_6.png"
+    ],
+    "productDetails": [
+        {
+            "type": "Season",
+            "detail": "SS2021"
+        },
+        {
+            "type": "Lifecycle",
+            "detail": "Yearly"
+        },
+        {
+            "type": "Product Line",
+            "detail": "Organic Cotton"
+        },
+        {
+            "type": "Sub Brand",
+            "detail": "Waves Surfwear"
+        },
+        {
+            "type": "Delivery Start Date",
+            "detail": "03.08.2021"
+        },
+        {
+            "type": "Material Composition",
+            "detail": "SSOrganic Cotton2021"
+        }
+    ],
+    "productVariants": [
+        {
+            "color": "black",
+            "image": "./../assets/productColors/ellipse_1.png",
+            "stockavailability": [
+                {
+                    "type": "XS",
+                    "availability": 0,
+                    "border": "redBottomBorder"
+                },
+                {
+                    "type": "S",
+                    "availability": 0,
+                    "border": "yellowBottomBorder"
+                },
+                {
+                    "type": "M",
+                    "availability": 0,
+                    "border": "greenBottomBorder"
+                },
+                {
+                    "type": "L",
+                    "availability": 4,
+                    "border": "greenBottomBorder"
+                },
+                {
+                    "type": "XL",
+                    "availability": 0,
+                    "border": "blueBottomBorder"
+                },
+                {
+                    "type": "XXL",
+                    "availability": 0,
+                    "border": "blueBottomBorder"
+                }
+            ]
+        },
+        {
+            "color": "gray",
+            "image": "./../assets/productColors/ellipse_2.png",
+            "stockavailability": [
+                {
+                    "type": "XS",
+                    "availability": 0,
+                    "border": "redBottomBorder"
+                },
+                {
+                    "type": "S",
+                    "availability": 0,
+                    "border": "yellowBottomBorder"
+                },
+                {
+                    "type": "M",
+                    "availability": 0,
+                    "border": "greenBottomBorder"
+                },
+                {
+                    "type": "L",
+                    "availability": 4,
+                    "border": "greenBottomBorder"
+                },
+                {
+                    "type": "XL",
+                    "availability": 0,
+                    "border": "blueBottomBorder"
+                },
+                {
+                    "type": "XXL",
+                    "availability": 0,
+                    "border": "blueBottomBorder"
+                }
+            ]
+        }
+    ],
+    "laundaryInstructions": [
+        {
+            "image": "./../assets/instructionsIcons/vector1.png",
+            "title": "laundary professional"
+        },
+        {
+            "image": "./../assets/instructionsIcons/vector2.png",
+            "title": "laundary iron not"
+        },
+        {
+            "image": "./../assets/instructionsIcons/vector3.png",
+            "title": "laundary dry not"
+        },
+        {
+            "image": "./../assets/instructionsIcons/vector4.png",
+            "title": "laundary bleach not"
+        },
+        {
+            "image": "./../assets/instructionsIcons/vector5.png",
+            "title": "laundary wash 40"
+        }
+    ],
+    "stockIndicators": [
+        {
+            "name": "No stock available",
+            "image": "./../assets/stockAvailabilityIcons/noStock.png"
+        },
+        {
+            "name": "Limited stock",
+            "image": "./../assets/stockAvailabilityIcons/limitedStock.png"
+        },
+        {
+            "name": "Stock available",
+            "image": "./../assets/stockAvailabilityIcons/stockAvailable.png"
+        },
+        {
+            "name": "Future stock",
+            "image": "./../assets/stockAvailabilityIcons/futureStock.png"
+        }
+    ]
+}

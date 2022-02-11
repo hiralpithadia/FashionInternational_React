@@ -1,0 +1,33 @@
+@font-face {
+  font-family: "FuturaFont";
+  src: url(./fonts/Futura.ttc);
+}
+body {
+  font-size: 0.9rem !important;
+  margin: 0;
+  font-family: "FuturaFont" !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+a,
+a:hover {
+  color: #000000 !important;
+  text-decoration: none !important;
+}
+code {
+  font-family: "FuturaFont" !important;
+}
+
+/* Ipad media queries */
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 1) {
+  body {
+    font-size: 0.8rem !important;
+  }
+}
+
+/* Mobile media queries */
+@media only screen and (max-width: 600px) {
+  body {
+    font-size: 0.7rem !important;
+  }
+}
