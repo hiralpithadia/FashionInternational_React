@@ -11,9 +11,10 @@
 - All images added to `/public/assets` folder.
 - Highlight/Select product color variants (black/gray).
 
-# Improvements:- 
+# Improvements/Additions:- 
 
 - Use of Typescript.
+- Deployment to cloud apps
 - More features for modal's image like zoom or onClick of modal's image show image inside a dialog box/popup. etc.
 - Change product details onClick of product color variants.
 - Text translations on selecting language in footer.
