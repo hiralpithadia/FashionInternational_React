@@ -2,12 +2,12 @@
     "name": "Pullover of Organic Cotton",
     "description": "This sweater of organic cotton is ideal for late summer nights at the beach. You can still wear it during fall or winter so its great for all seasons. This soft fabric makes it comfortable to wear and stays nice and soft for a long time. ",
     "modalImages": [
-        "./../assets/modal/xlarge_1.png",
-        "./../assets/modal/xlarge_2.png",
-        "./../assets/modal/xlarge_3.png",
-        "./../assets/modal/xlarge_4.png",
-        "./../assets/modal/xlarge_5.png",
-        "./../assets/modal/xlarge_6.png"
+        "assets/modal/xlarge_1.png",
+        "assets/modal/xlarge_2.png",
+        "assets/modal/xlarge_3.png",
+        "assets/modal/xlarge_4.png",
+        "assets/modal/xlarge_5.png",
+        "assets/modal/xlarge_6.png"
     ],
     "productDetails": [
         {
@@ -38,7 +38,7 @@
     "productVariants": [
         {
             "color": "black",
-            "image": "./../assets/productColors/ellipse_1.png",
+            "image": "assets/productColors/ellipse_1.png",
             "stockavailability": [
                 {
                     "type": "XS",
@@ -74,7 +74,7 @@
         },
         {
             "color": "gray",
-            "image": "./../assets/productColors/ellipse_2.png",
+            "image": "assets/productColors/ellipse_2.png",
             "stockavailability": [
                 {
                     "type": "XS",
@@ -111,42 +111,42 @@
     ],
     "laundaryInstructions": [
         {
-            "image": "./../assets/instructionsIcons/vector1.png",
+            "image": "assets/instructionsIcons/vector1.png",
             "title": "laundary professional"
         },
         {
-            "image": "./../assets/instructionsIcons/vector2.png",
+            "image": "assets/instructionsIcons/vector2.png",
             "title": "laundary iron not"
         },
         {
-            "image": "./../assets/instructionsIcons/vector3.png",
+            "image": "assets/instructionsIcons/vector3.png",
             "title": "laundary dry not"
         },
         {
-            "image": "./../assets/instructionsIcons/vector4.png",
+            "image": "./assets/instructionsIcons/vector4.png",
             "title": "laundary bleach not"
         },
         {
-            "image": "./../assets/instructionsIcons/vector5.png",
+            "image": "assets/instructionsIcons/vector5.png",
             "title": "laundary wash 40"
         }
     ],
     "stockIndicators": [
         {
             "name": "No stock available",
-            "image": "./../assets/stockAvailabilityIcons/noStock.png"
+            "image": "assets/stockAvailabilityIcons/noStock.png"
         },
         {
             "name": "Limited stock",
-            "image": "./../assets/stockAvailabilityIcons/limitedStock.png"
+            "image": "assets/stockAvailabilityIcons/limitedStock.png"
         },
         {
             "name": "Stock available",
-            "image": "./../assets/stockAvailabilityIcons/stockAvailable.png"
+            "image": "assets/stockAvailabilityIcons/stockAvailable.png"
         },
         {
             "name": "Future stock",
-            "image": "./../assets/stockAvailabilityIcons/futureStock.png"
+            "image": "assets/stockAvailabilityIcons/futureStock.png"
         }
     ]
 }

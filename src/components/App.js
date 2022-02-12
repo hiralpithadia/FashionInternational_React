@@ -1,8 +1,8 @@
 import "./App.css";
-import Header from "./components/Header";
-import CategoryNavBar from "./components/CategoryNavBar";
-import Product from "./components/Product/Main";
-import Footer from "./components/Footer";
+import Header from "./Header";
+import CategoryNavBar from "./CategoryNavBar";
+import Product from "./Product/Main";
+import Footer from "./Footer";
 
 function App() {
   return (

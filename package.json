@@ -1,6 +1,6 @@
 {
-  "homepages": "https://hiralpithadia.github.io/FashionInternational_React/",
-  "name": "fashion_international_react",
+  "homepages": "https://hiralpithadia.github.io/FashionInternational_React",
+  "name": "FashionInternational_React",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
