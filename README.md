@@ -23,16 +23,19 @@
 - onClick of `Go to order grid` button scroll to Order section.
 - onClick of heart icon beside product title turn heart to Red to indicate. If product is wishlist add badge icon to Heart icon in Header.
 
+# Run commands 
+
+- `npm install` or `npm i` (command to install all dependencies)
+- `npm start` (command to run app)
+- Runs the app in the development mode.\
+- Open [http://localhost:3000] to view it in your browser.
+
 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
-
-Command to install all dependencies
-
-### `npm install` or `npm i`
 
 In the project directory, you can run:
 
