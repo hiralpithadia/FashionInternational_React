@@ -4,7 +4,7 @@ import CategoryNavBar from "./CategoryNavBar";
 import Product from "./Product/Main";
 import Footer from "./Footer";
 
-function App() {
+function Home() {
   return (
     <div className="App">
       <div className="topNews text-uppercase p-3">
@@ -18,4 +18,4 @@ function App() {
   );
 }
 
-export default App;
+export default Home;
