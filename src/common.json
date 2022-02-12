@@ -6,19 +6,19 @@
     "topBarIcons": [
         {
             "type": "user",
-            "image": "./assets/user.png"
+            "image": "assets/user.png"
         },
         {
             "type": "search",
-            "image": "./assets/search.png"
+            "image": "assets/search.png"
         },
         {
             "type": "wishlist",
-            "image": "./assets/vector.png"
+            "image": "assets/vector.png"
         },
         {
             "type": "cart",
-            "image": "./assets/shopping-bag.png"
+            "image": "assets/shopping-bag.png"
         }
     ],
     "categories": [
@@ -29,19 +29,19 @@
     ],
     "relatedProducts": [
         {
-            "image": "./assets/relatedProductsImages/relatedProduct.png",
+            "image": "assets/relatedProductsImages/relatedProduct.png",
             "title": "Pullover made out of organic cotton"
         },
         {
-            "image": "./assets/relatedProductsImages/relatedProduct.png",
+            "image": "assets/relatedProductsImages/relatedProduct.png",
             "title": "Pullover made out of organic cotton"
         },
         {
-            "image": "./assets/relatedProductsImages/relatedProduct.png",
+            "image": "assets/relatedProductsImages/relatedProduct.png",
             "title": "Pullover made out of organic cotton"
         },
         {
-            "image": "./assets/relatedProductsImages/relatedProduct.png",
+            "image": "assets/relatedProductsImages/relatedProduct.png",
             "title": "Pullover made out of organic cotton"
         }
     ],
