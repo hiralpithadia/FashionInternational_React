@@ -6,7 +6,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import { HashRouter } from "react-router-dom";
 
 ReactDOM.render(
-  <HashRouter basename="/FashionInternational_React">
+  <HashRouter basename={process.env.PUBLIC_URL}>
     <App />
   </HashRouter>,
   document.getElementById('root')
