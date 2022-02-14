@@ -4,6 +4,9 @@ import logo from "../logo.png";
 function Header() {
   return (
     <header className="App-header">
+      <div className="raw topNews text-uppercase p-3 m-0">
+        Europe: delivery within 2-3 working days
+      </div>
       <div className="raw header-main align-items-center p-0">
         <div className="col-xl-9 col-lg-9 col-md-6 col-sm-6 col-xs-12 header-logo p-3 text-center">
           <img src={logo} className="logo my-3" alt="logo" />
